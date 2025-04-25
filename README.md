@@ -15,11 +15,10 @@ This project is a simple React application that generates and displays SHA-256 h
 Make sure you have Node.js installed on your system.  
 
 ### Installation  
-
-    - git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git  
-    - cd YOUR_REPO  
-    - npm install  
-    - npm start
+- git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git  
+- cd YOUR_REPO  
+- npm install  
+- npm start
 
 
 ## Usage
@@ -32,7 +31,6 @@ Make sure you have Node.js installed on your system.
 - JavaScript
 - Crypto module
 
-### Output
 
     ![Screenshot 2025-04-24 140758](https://github.com/user-attachments/assets/643a0450-adef-495a-a885-4606a449b758)
 
