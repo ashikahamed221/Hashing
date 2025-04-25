@@ -15,11 +15,12 @@ This project is a simple React application that generates and displays SHA-256 h
 Make sure you have Node.js installed on your system.  
 
 ### Installation  
-```sh
+
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git  
 cd YOUR_REPO  
 npm install  
 npm start
+
 
 ## Usage
 - Enter a string in the input field
